@@ -1,0 +1,24 @@
+.collapse{
+	float:right;
+}
+.logo{
+	width: 250px;
+	height: 90px;
+	float: left;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	text-align: center;
+	line-height: 90px;
+	color: #fff;
+	font-weight: 700;
+	font-size: 24px;
+	text-decoration: none;
+	background: #4aaaa5;
+}
+#footer{
+	color: white;
+	text-align:center;
+	float:none;
+}
+.social{
+	width: 50px;
+}
